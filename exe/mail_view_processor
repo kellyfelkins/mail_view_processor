@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/mail_view_processor'
+
+MailViewProcessor.new.run
